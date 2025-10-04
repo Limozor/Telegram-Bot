@@ -6,7 +6,7 @@ from aiogram.types import Message
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 import asyncio
 
-bot = Bot(token="")
+bot = Bot(token=TOKEN_BOT)
 dp = Dispatcher()
 
 
